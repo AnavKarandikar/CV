@@ -1,0 +1,20 @@
+body{
+  background-color: #eaf6f6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1{
+  color: #66bfbf;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h3{
+  color: #65C18C;
+  font-family: sans-serif;
+}
